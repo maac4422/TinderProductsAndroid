@@ -5,7 +5,7 @@ import android.os.Bundle
 import co.com.maac.tinderproducts.Activities.Global.BaseActivity
 import co.com.maac.tinderproducts.R
 
-class AuthActivity : BaseActivity() {
+class AuthActivity : BaseActivity(), IAuthActivity {
 
     override val layoutRes = R.layout.activity_auth
 
