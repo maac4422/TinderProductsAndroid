@@ -38,7 +38,7 @@
 
         </activity>
 
-        <activity android:name=".Activities.Auth.Auth">
+        <activity android:name=".Activities.Auth.AuthActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

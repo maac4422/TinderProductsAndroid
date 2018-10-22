@@ -3,4 +3,5 @@
     <string name="login_facebook">Iniciar sesion con facebook</string>
     <string name="facebook_app_id">[APP_ID]</string>
     <string name="fb_login_protocol_scheme">fb[APP_ID]</string>
+    <string name="loading">Cargando...</string>
 </resources>
